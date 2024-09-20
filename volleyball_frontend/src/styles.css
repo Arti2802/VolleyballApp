@@ -1,0 +1,20 @@
+/* table, tr, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+} */
+.content {
+    background-color: chartreuses;
+}
+i {
+    font-size: '32px';
+}
+.icon {
+    background: none;
+    border: none;
+}
+.under {
+    clear: both;
+}
+.root {
+    background-color:#D9E6F4;
+}
